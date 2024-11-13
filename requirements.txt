@@ -1,0 +1,5 @@
+gradio==4.44.1
+openai-whisper==20240930
+setuptools==74.1.2
+torchaudio==2.5.1
+transformers==4.46.2
